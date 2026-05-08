@@ -15,7 +15,7 @@
     },
     {
       "paymentName": "Google Pay",
-      "link": "tez://upi/pay?pa=cc.9181538395929110@axisbank&pn=Merchant&cu=INR",
+      "link": "tez://upi/pay?pa=cc.9181538395925032@axisbank&pn=Merchant&cu=INR",
       "upiimg": "/img/gpay.jpg",
       "enabled": true
     },
