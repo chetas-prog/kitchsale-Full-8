@@ -4,7 +4,7 @@
   "thankyouLogo": "/img/flipkart-logo.webp",
   "facebookPixelId": "983033000772971",
   "cashfreePayment": false,
-  "phonepeMode": 2,
+  "phonepeMode": 1,
   "phonepeMode_comment": "1 = native, 2 = intent",
   "upiOptions": [
 {
@@ -13,12 +13,7 @@
       "upiimg": "/img/phone.webp",
       "enabled": true
     },
-    {
-      "paymentName": "Google Pay",
-      "link": "tez://upi/pay?pa=cc.9181538395922975@axisbank&pn=Merchant&cu=INR",
-      "upiimg": "/img/gpay.jpg",
-      "enabled": true
-    },
+    
     
     {
       "paymentName": "Paytm",
